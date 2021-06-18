@@ -29,7 +29,7 @@ return 0;
 /*
 Sample Input: 4
 Sample Output: 2
-Explanation: As 4 is coprime with 1 and 2 only so its Euler's Totient function value is 2;
+Explanation: As 4 is coprime with 1 and 3 only so its Euler's Totient function value is 2;
 
 Sample Input: 5
 Sample Output: 4
